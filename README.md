@@ -5,11 +5,11 @@ materials:
 
 2 pcs P10 led panel, esp8266, psu 5v/40A, small breadboard, jumper cable
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/p10-led-esp8266-ntp-clock/blob/main/screenshot/image1.jpg)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/p10-led-esp8266-ntp-clock/blob/main/screenshot/image2.jpg)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/p10-led-esp8266-ntp-clock/blob/main/screenshot/image3.jpg)
 
 references:
 
