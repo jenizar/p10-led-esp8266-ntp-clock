@@ -5,6 +5,12 @@ materials:
 
 2 pcs P10 led panel, esp8266, psu 5v/40A, small breadboard, jumper cable
 
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
 references:
 
 1. https://github.com/busel7/DMDESP
